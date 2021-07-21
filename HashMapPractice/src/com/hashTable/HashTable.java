@@ -5,7 +5,7 @@ public class HashTable {
         System.out.println("Welcome to HashTable program");
         //Creating object as hashCode for LinkedList class
         LinkedList<String, Integer> hashCode = new LinkedList<String, Integer>();
-        String message = "To be or not to be";
+        String message = "Paranoids are not paranoid because they are paranoid but because they keep putting themselves deliberately into paranoid avoidable situations";
 
         //String to String[] conversion.
         String[] messageArray = message.toLowerCase().split(" ");
